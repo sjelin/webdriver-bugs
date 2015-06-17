@@ -4,7 +4,8 @@
   "homepage": "https://github.com/juliemr/webdriver-bugs",
   "author": "Julie Ralph <ju.ralph@gmail.com>",
   "dependencies": {
-    "selenium-webdriver": "2.46.0"
+    "selenium-webdriver": "2.46.0",
+    "q": "1.0.0"
   },
   "repository": {
     "type": "git",
