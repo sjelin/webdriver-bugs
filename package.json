@@ -2,14 +2,14 @@
   "name": "webdriver-bugs",
   "description": "To share webdriver bugs.",
   "homepage": "https://github.com/sjelin/webdriver-bugs",
-  "author": "Julie Ralph <ju.ralph@gmail.com>",
-  "dependencies": {
-    "selenium-webdriver": "2.46.1"
-  },
+  "author": "Sammy Jelin <sjelin@gmail.com>",
   "repository": {
     "type": "git",
     "url": "git://github.com/sjelin/webdriver-bugs.git"
   },
   "license": "MIT",
-  "version": "0.1.0"
+  "version": "0.1.0",
+  "dependencies": {
+    "selenium-webdriver": "^3.0.0-beta-3"
+  }
 }
